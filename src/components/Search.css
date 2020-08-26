@@ -34,3 +34,7 @@
   background-color: #f8f8f8;
   border: 1px solid white;
 }
+
+.search__buttonsHidden {
+  display: none !important;
+}
